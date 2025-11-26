@@ -32,7 +32,7 @@ In my free time, I love writing technical articles. Checkout my profile on [Medi
 ---
 
 ### Career Highlights
-- **Modus Create:** Senior Software Engineer, Platform Development Team team (Backend Microservices, Frontend microfrontends)
+- **Modus Create:** Senior Software Engineer, Platform Development Team (Backend Microservices, Frontend microfrontends)
 - **Wild:** Software Engineer (React/TypeScript, PHP)
 - **Eyowo:** Software Engineer (React/TypeScript, NodeJS)
 - **Aptech:** Software Engineer & Instructor (Java, C, C++)
